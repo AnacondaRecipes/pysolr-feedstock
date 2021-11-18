@@ -1,0 +1,6 @@
+[submodule "pysolr-feedstock" ]
+    path = include/foo
+    branch = master
+    url = ../pysolr-feedstock
+
+
